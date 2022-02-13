@@ -1,6 +1,4 @@
-@import url(../main/section/__subtitle/_theme_dark/section__subtitle_theme_dark.css);
-@import url(../main/section/__title/_theme_dark/section__title_theme_dark.css);
-@import url(../main/kaufman/__triangle/kaufman__triangle.css);
+
 .kaufman {
   display: flex;
   flex-direction: column;

@@ -1,6 +1,4 @@
-@import url(../main/section/__title/section__title.css);
-@import url(./main/section/__subtitle/section__subtitle.css);
-@import url(./table/table.css);
+
 .digits {
   position: relative;
   display: flex;

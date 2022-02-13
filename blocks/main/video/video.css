@@ -1,7 +1,4 @@
-@import url(../section/__title/section__title.css);
-@import url(../section/__subtitle/section__subtitle.css);
-@import url(./__iframes/video__iframes.css);
-@import url(./__iframe/video__iframe.css);
+
 .video {
     position: relative;
     display: flex;

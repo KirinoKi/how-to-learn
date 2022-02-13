@@ -1,13 +1,4 @@
-@import url(./__columns/footer__columns.css);
-@import url(./__columns/_content_social/footer__columns_content_social.css);
-@import url(./__columns/_content_info/footer__columns_content_info.css);
-@import url(./__columns/_content_copyright/footer__columns_content_copyright.css);
-@import url(./__columns-link/footer__columns-link.css);
-@import url(./__columns-heading/footer__columns-heading.css);
-@import url(./logo_place_footer.css);
-@import url(./__author/footer__author.css);
-@import url(./__social-icon/footer__social-icon.css);
-@import url(./__columns-links/footer__columns-links.css);
+
 .footer{
     border: 1px solid #1f1f1f;
     background-color: #1f1f1f;
