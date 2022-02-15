@@ -1,9 +1,8 @@
 .footer__column_content_copyright {
-    display: flex;
+    display: inline-block;
     flex-basis: 711px;
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-between;
     margin: 0;
-    width: 50%;
 }
